@@ -1,5 +1,5 @@
 # AutomataCobranca
- AutomataCobrança é uma solução inovadora desenvolvida em Python 3, projetada para simplificar e agilizar o processo de cobrança para empresas de todos os portes. Compatível com o sistema operacional Windows, este programa oferece uma abordagem eficiente e automatizada no envio de mensagens de cobrança pelo WhatsApp.
+ AutomataCobrança é uma solução desenvolvida em Python 3, projetada para simplificar e agilizar o processo de cobrança para empresas de todos os portes. Compatível com o sistema operacional Windows, este programa oferece uma abordagem eficiente e automatizada no envio de mensagens de cobrança pelo WhatsApp.
 
 Ideal para empresas pequenas, médias ou grandes, o AutomataCobrança visa otimizar o tempo e minimizar a repetição de tarefas associadas ao processo de cobrança. Ao utilizar este aplicativo, as empresas podem enviar mensagens personalizadas de forma automática aos clientes inadimplentes, proporcionando uma gestão financeira mais eficaz e liberando recursos para outras atividades estratégicas.
 
