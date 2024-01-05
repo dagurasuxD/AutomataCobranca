@@ -5,7 +5,7 @@ Ideal para empresas pequenas, médias ou grandes, o AutomataCobrança visa otimi
 
 Principais características do AutomataCobrança:
 
-Simples de Usar: Interface intuitiva e amigável, permitindo uma rápida implementação mesmo para usuários sem experiência técnica avançada.
+Simples de Usar: Apesar de ainda ser em terminal, sua interface intuitiva e amigável, permite uma rápida implementação mesmo para usuários sem experiência técnica avançada.
 
 Compatibilidade com Windows: Atende às necessidades de usuários que utilizam o sistema operacional Windows como plataforma principal.
 
@@ -16,3 +16,7 @@ Automatização Inteligente: O programa automatiza o envio de mensagens de cobra
 Apoio a Empresas de Todos os Portes: Projetado para ajudar empresas pequenas, médias ou grandes, o AutomataCobrança adapta-se às diferentes escalas de negócio, proporcionando uma abordagem flexível e eficaz.
 
 Ao escolher o AutomataCobrança, as empresas podem contar com uma ferramenta moderna e eficiente, focada em simplificar a gestão financeira e melhorar a comunicação com os clientes inadimplentes, sem complicações desnecessárias.
+
+Para utilizar: Você só precisa abrir o arquivo AutomataCobranca.py e rodar. Ainda tem alguns bugs, pois está na versão Alpha 0.1b, mas são fáceis de corrigir.
+Caso o programa acabe não clicando no local correto, é possível corrigir utilizando o mouseInfo e colocar as coordenadas no script "__init__.py" dentro da pasta "Sistema" da lib.
+Bugs e erros serão corrigidos ao decorrer das atualizações.
