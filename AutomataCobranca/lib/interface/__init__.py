@@ -7,7 +7,7 @@ def cabecalho():
 
 def sobre():
     print('-'*50)
-    print('CRIADO POR: DOUGLAS MENESES - Desenvolvedor de Softwares e Automações'.center(50))
+    print('CRIADO POR: DOUGLAS MENESES - Desenvolvedor de Software.'.center(50))
     print('Versão Alpha 0.1b.'.center(50))
     print('-'*50)
 
